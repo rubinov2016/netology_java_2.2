@@ -15,7 +15,7 @@
    
    Фактическое значение остатка
    
-   -0.8999999999999999
+   0.8999999999999999
    
    [Ссылка1](https://monosnap.com/file/itmQPKdONDc3erXiV3otxiBNOzodUz)
    
